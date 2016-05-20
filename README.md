@@ -1,4 +1,4 @@
-# PolynomialFunctionOperator
+# Polynomial Function Operator
 
 ## Summary
 I study the data structure of the sophomore, using C language created a polynomial calculator program.
