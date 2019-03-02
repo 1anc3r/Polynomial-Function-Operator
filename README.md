@@ -4,7 +4,7 @@
 I study the data structure of the sophomore, using C language created a polynomial calculator program.
 
 ## Features
-1. Capable of computing complex polynomial.
+Capable of computing complex polynomial.
 
 ## About Me
 A student of Xi'an University of Posts and Telecommunications in mainland China. Currently learning Android development.
